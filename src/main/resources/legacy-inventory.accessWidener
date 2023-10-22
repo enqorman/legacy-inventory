@@ -1,0 +1,7 @@
+accessWidener	v1    named
+accessible      field net/minecraft/screen/PlayerScreenHandler craftingResult Lnet/minecraft/inventory/CraftingResultInventory;
+accessible      field net/minecraft/screen/PlayerScreenHandler owner Lnet/minecraft/entity/player/PlayerEntity;
+#accessible      method net/minecraft/screen/PlayerScreenHandler onEquipStack (Lnet/minecraft/entity/PlayerEntity;Lnet/minecraft/entity/EquipmentSlot;Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)V
+
+mutable         field net/minecraft/screen/slot/Slot x Ljava/lang/Number;
+mutable         field net/minecraft/screen/slot/Slot y Ljava/lang/Number;
